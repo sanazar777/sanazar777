@@ -1,5 +1,5 @@
 - 👋 Salam Men Şanazar Hojagulyýew @sanazar777
-- 👀 meniň üçin It ulgamynda Flutter dart, Python Django, has gyzykly
+- 👀 meniň üçin It ulgamynda Flutter dart, Python Django, C++ has gyzykly
 - 🌱Öwrenmegi halaýyaryn 
 
 
